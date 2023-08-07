@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: "Third Avenue Consulting : specialist, independent public relations"
+title: Third Avenue Consulting
 subtitle: Specialist, independent public relations
 class: home
 date: 2023-07-20
