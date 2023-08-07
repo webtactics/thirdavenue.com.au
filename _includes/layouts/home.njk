@@ -1,0 +1,23 @@
+{% extends "layouts/default.njk" %}
+
+{% block hero %}
+{% include "components/hero.njk" %}
+{% endblock %}
+
+{% block content %}
+<div class="caption-text"><h1><span>{{ title }}</span></h1></div>
+<main class="content">  
+
+{{ layoutContent | safe }}
+
+<div class="servicescontent">
+<h3>James Taylor Bathurst Solictor Practice Areas:</h3>
+{% set postslist = collections.services | reverse %}
+{% include "components/postslist-3wide.njk" %}
+</div>
+
+{% include "pages/home-second.md" %}
+
+</main>
+{% endblock %}
+
