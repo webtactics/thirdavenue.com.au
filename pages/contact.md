@@ -1,6 +1,6 @@
 ---
 layout: layouts/default.njk
-title: Contact James Taylor Bathurst Solicitor
+title: Contact Third Avenue Consulting
 class: contact
 description: How to contact James Taylor Bathurst Solictor
 section: contact
@@ -10,20 +10,20 @@ metadata:
 permalink: /contact/
 eleventyNavigation:
   key: Contact
-  order: 4
+  order: 5
 ---
 
 
+<h2>ROCHELLE BURBURY</h2>
+
+<p><strong>Third Avenue Consulting</strong><br>
+M: <a title="Call Third Avenue Consulting" alt="Call Third Avenue Consulting" href="tel:+61408774577">0408 774 577</a><br>
+E: <a title="Email Rochelle@thirdavenue.com.au" alt="Email Rochelle@thirdavenue.com.au" href="mailto:Rochelle@thirdavenue.com.au">Rochelle@thirdavenue.com.au</a></p>
 
 
 
 
 
-<h2>Contact Details</h2>
-<p>Address: <a title="James Taylor Bathurst Solicitor Map" alt="James Taylor Bathurst Solicitor Map" href="https://goo.gl/maps/VH3KrRsjfEAdpWns9" target="_blank" rel="noopener">Suite A, 238 Howick St, Bathurst NSW 2795</a><br>
-Mobile: <a title="Call James Taylor Bathurst Solicitor" alt="Call James Taylor Bathurst Solicitor" href="tel:+61400316661">0400 316 661</a><br>
-Email: <a title="Email jtaylorsolicitor@gmail.com" alt="Email jtaylorsolicitor@gmail.com" href="mailto:jtaylorsolicitor@gmail.com">jtaylorsolicitor@gmail.com</a><br>
-Website: <a href="/" title="James Taylor Bathurst Solicitor Website" alt="James Taylor Bathurst Solicitor Website">www.jamestaylorsolicitor.com.au</a></p>
 
 
 <div class="responsive-embed widescreen">

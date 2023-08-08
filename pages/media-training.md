@@ -1,13 +1,13 @@
 ---
 layout: layouts/services.njk
-title: Our Service & Practice Areas
+title: Media Training
 description: James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
-class: services
-section: legal-services
+class: media-training
+section: media-training
 date: 2023-07-20
-permalink: /legal-services/
+permalink: /media-training/
 eleventyNavigation:
-  key: Services
+  key: Media Training
   order: 3
 ---
 
