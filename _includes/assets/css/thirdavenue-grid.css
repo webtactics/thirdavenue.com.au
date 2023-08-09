@@ -194,8 +194,9 @@ padding: calc(0.5vw + 5px);
 
 
 
-@media screen and (max-width: 700px) {
-
+@media screen and (max-width: 768px) {
+  .content {
+    width: calc(100vw - 1rem);}
 
 .caption-text {
     width: 100%;
