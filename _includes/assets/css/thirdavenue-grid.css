@@ -155,7 +155,7 @@ padding:0;}
 }
 .content {
   margin: 0 auto;
-  padding:  0 1rem;
+  padding: 0;
   z-index: 2;
   width: calc(100vw - 6em);
   max-width: 1440px;
@@ -195,6 +195,9 @@ padding: calc(0.5vw + 5px);
 
 
 @media screen and (max-width: 700px) {
+.content {
+padding: 0 0.5rem;}
+
 .caption-text {
     width: 100%;
     right: auto;
