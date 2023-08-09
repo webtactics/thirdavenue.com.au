@@ -4,7 +4,7 @@ date: 2023-04-19
 Contact-name: Chelsea Wymer
 Contact-position: National Trade Marketing Director
 Website: https://www.fairfaxmedia.com.au/
-description: Rochelle and Angela were invaluable to us when we launched our digital asset storage and management platform VisionVault.
+description: When it comes to business and trade media, Third Avenue is second to none.
 
 
 
