@@ -865,7 +865,7 @@ background-color: var(--primary); font-weight: bold;}
 
   
       .footernavwrapper {
-        background-color: var(--black);height:36px;border-bottom: 1px solid var(--lightgrey);
+        background-color: var(--black);height:36px;border-bottom: 1px solid var(--lightgrey);position: fixed;bottom: 0;width: 100%;z-index: 4
       }
         .footernav {
         margin: 0 auto;
