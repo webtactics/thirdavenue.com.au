@@ -522,15 +522,15 @@ ul.menusocial li {
     margin:0;
     border: none;
     position: relative;
-    left: 0;
-    width: 160px;
+    right: 0;
+    width: auto;
     text-align: center;
 }
 
 @media screen and (max-width: 1200px) {
 
 .main-menu > li {
-width: 120px;
+width: auto;
 }
 }
 
@@ -573,60 +573,8 @@ ul.main-menu > li.active-class > a {
 
 
 
-/* Second level nav */
-ul.main-menu li ul.second-level {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: var(--white);
-  padding: 0;
-  margin: 0;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-}
-
-ul.main-menu li ul.second-level li {
-  display: block;
-  border-top: 1px solid var(--lightgrey);
-}
 
 
-
-
-ul.main-menu li ul.second-level li a {
-  display: block;
-padding: 0.4rem 0;
-  color: var(--primary);
-  width: 160px;
-  text-align: center;
-  text-decoration: none;
-  border-bottom: 1px solid (var(--lightgrey));
-}
-ul.main-menu li ul.second-level li a:hover {
-  display: block;  
-  border-bottom: 1px solid (var(--lightgrey));
-  color: var(--white);
-  background-color: var(--primary);
-  text-align: center;
-  text-decoration: none;
-}
-
-ul.main-menu li ul.second-level li.active-class > a {
-  color: var(--white);
-  background-color: var(--primary);
-  border-bottom: 1px solid (var(--lightgrey));
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-}
-
-
-ul.main-menu li:hover ul.second-level {
-  display: block;
-  
-}
 
 
 
