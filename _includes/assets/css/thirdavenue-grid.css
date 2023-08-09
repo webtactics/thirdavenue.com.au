@@ -526,13 +526,7 @@ ul.menusocial li {
     text-align: center;
 }
 
-@media screen and (max-width: 1400px) {
 
-  .main-menu > li {
-
-    padding: 0 0.5rem;
-}
-}
 
 
 .main-menu > li.hide {
@@ -541,7 +535,7 @@ ul.menusocial li {
 
 
 ul.main-menu > li > a {
-
+  padding: 0 2rem;
   line-height: 38px;
   font-size: 1rem;
   color: var(--white);
@@ -570,7 +564,13 @@ ul.main-menu > li.active-class > a {
 }
 
 
+@media screen and (max-width: 1400px) {
 
+  .main-menu > li, ul.main-menu > li > a {
+    padding: 0 0.5rem;
+}
+
+}
 
 
 
