@@ -691,6 +691,8 @@ ul.footer-menu li {
 
 
 @media (max-width: 768px) {
+
+  .footernavwrapper {height: auto;}
   .footer-menu > li {
     width: 100%;
     text-align: center;
