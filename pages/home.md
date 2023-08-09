@@ -1,5 +1,5 @@
 ---
-layout: layouts/home.njk
+layout: layouts/default.njk
 title: Third Avenue Consulting is a specialist, independent Public Relations firm
 subtitle: Third Avenue Consulting is a specialist, independent Public Relations firm
 class: home
