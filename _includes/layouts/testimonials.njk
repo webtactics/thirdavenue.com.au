@@ -8,6 +8,6 @@ class: testimonials
 {{ layoutContent | safe }}
 
 <div class="servicescontent">
-{% set postslist = collections.services | reverse %}
+{% set postslist = collections.testimonials | reverse %}
 {% include "components/postslist.njk" %}
 </div>
