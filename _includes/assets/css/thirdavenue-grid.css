@@ -692,12 +692,15 @@ ul.footer-menu li {
 
 @media (max-width: 768px) {
   .footer-menu > li {
-    width: 80px;
+    width: 100%;
     text-align: center;
     font-size: 1rem;
+
   }
+
   .footer-menu > li > a {
     padding: 0.5rem;
+    width: 100%;
   }
 }
 
@@ -881,27 +884,7 @@ background-color: var(--primary); font-weight: bold;}
   padding: 1rem 0;
   z-index: 4;
 }
-.footerwrap {max-width:1280px;margin:0 auto;padding:1rem;
-color: var(--white);
-font-size: 1rem;
-text-align: center;
-}
-.footerwrap p {
-  color: var(--white);
-  font-size: 0.875rem;
-  
-}
-.footerwrap p a {
-  color: var(--primary);
-  border-bottom: 1px dotted var(--primary);
-  padding: 0 0.25rem;
 
-}
-.footerwrap p a:hover {
-  background: var(--white);
-  color: var(--black);
-  border-bottom: 1px solid var(--red);
-}
 
 
 
