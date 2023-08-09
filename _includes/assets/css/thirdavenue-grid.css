@@ -242,10 +242,9 @@ width: 100%;
     grid-template-columns: 120px 300px 1fr 110px;
     grid-template-areas:
       "hamburger logo navwrapper socialwrapper";
-      grid-template-rows: 54px; } 
-  
-      .headerwrapper.scrolled {
       grid-template-rows: 44px; } 
+  
+   
   }
    
    @media only screen and (min-width: 1500px) {  
@@ -283,7 +282,7 @@ width: 100%;
       @media screen and (min-width: 1025px) {
         .logo img {width:257px;height:30px;}
         
-      .scrolled .logo img  {width:257px;height:30px;}
+    
       }
 
 
@@ -341,69 +340,6 @@ display: none;
 
 
 .toggle-nav {
-  display: block;
-  margin: 5px;
-  font-size: 1rem;
-  font-weight: 400;
-  color: white;
-  cursor: pointer;
-  background: transparent;
-  border: none;
-  width: auto;
-  height: 44px;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-  z-index: 3;
-  padding:10px;
- }
- @media screen and (max-width: 1025px) {
-  .toggle-nav {
-  display: block;
-  margin: 5px;
-  font-size: 1rem;
-  font-weight: 400;
-  color: white;
-  cursor: pointer;
-  background: transparent;
-  border: none;
-  width: auto;
-  height: 34px;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-  z-index: 3;
-  padding:5px;
- }
-
- .scrolled .toggle-nav {
-  display: block;
-  margin: 5px;
-  font-size: 1rem;
-  font-weight: 400;
-  color: white;
-  cursor: pointer;
-  background: transparent;
-  border: none;
-  width: auto;
-  height: 34px;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-  z-index: 3;
-  padding:5px;
-}
-
-
-}
-
-  .scrolled .toggle-nav {
     display: block;
   margin: 5px;
   font-size: 1rem;
@@ -414,14 +350,33 @@ display: none;
   border: none;
   width: auto;
   height: 34px;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
+
   z-index: 3;
   padding:5px;
+ }
+ @media screen and (max-width: 1025px) {
+  .toggle-nav {
+    display: block;
+    margin: 5px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: white;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    width: auto;
+    height: 34px;
+
+    z-index: 3;
+    padding:5px;
+ }
+
+
+
+
 }
+
+
 
 
 .hamburger-icon:before {
@@ -541,10 +496,7 @@ transition: all 0.6s;
     background-color:var(--black);}
   }
 
-.topbar.scrolled {
-  background-color: var(--black);
 
-}
 
 /* Menus */
 
@@ -590,7 +542,7 @@ width: 120px;
 
 ul.main-menu > li > a {
   padding: 0;
-  line-height: 48px;
+  line-height: 38px;
   font-size: 1.2rem;
   color: var(--white);
 text-decoration: none;
@@ -600,11 +552,7 @@ display: block;
 position: relative;
 border-bottom: 6px solid transparent;
 background-color: transparent;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
+
 }
 
 ul.main-menu > li > a:hover {
@@ -612,57 +560,18 @@ ul.main-menu > li > a:hover {
   color: var(--white);
   background-color: transparent;
   border-bottom: 6px solid var(--white);
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
+
 }
 ul.main-menu > li.active-class > a {
   color: var(--white);
   background-color: transparent;
   border-bottom: 6px solid var(--primary);
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
+
 }
 
 
 
 
-.scrolled .main-menu > li > a {
-  line-height: 38px;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-  border-bottom: 6px solid transparent;
-}
-
-.scrolled .main-menu > li > a:hover {
-  line-height: 38px;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-  color: var(--white);
-  background-color: var(--black);
-  border-bottom: 6px solid var(--primary);
-}
-.scrolled .main-menu > li.current > a, .scrolled .main-menu > li.active-class > a {
-   color: var(--white);
-   background-color: var(--black);
-  border-bottom: 6px solid var(--primary);
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-}
 
 /* Second level nav */
 ul.main-menu li ul.second-level {
@@ -808,7 +717,7 @@ ul.footer-menu li {
 
 .menusocial > li > a {
   padding: 0;
-  line-height: 54px;
+  line-height: 44px;
   font-size: 2.4rem;
   width:34px;
   height:34px;
@@ -839,30 +748,7 @@ margin:10px 0;
 
 
 
-.scrolled .menusocial > li > a {
-  line-height: 44px;
-  width:34px;
-  height:34px;
-text-decoration: none;
-font-weight: 700;
-cursor: pointer;
-display: block;
-position: relative;
-border-bottom: none;
-background-color: var(--white);
-margin:5px 0;
--webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-}
-.scrolled .menusocial > li > a:hover {
- 
-  background-color: #4267B2;
-  border-bottom: none;
-  transition: all 0.3s;
-}
+
  {
   color: var(--white);
   text-align: left;
