@@ -510,7 +510,7 @@ ul, ul.menusocial, ul.main-menu, ul.footer-menu, ul.second-level {
     padding-inline-start: 0;
 }
 ul.main-menu li {
-  margin:0 1rem 0 auto;
+  margin:0 1rem 0 auto;  float: right;
 }
 ul.menusocial li {
   float: right;
