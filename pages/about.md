@@ -1,13 +1,13 @@
 ---
 layout: layouts/default.njk
-title: About Rochelle Burbury
-description: Rochelle Burbury – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
+title: About Third Avenue Consulting
+description: Rochelle Burbury has more than 25 years’ experience as a journalist and editor, media trainer and PR professional.
 section: about
 class: about
 date: 2023-07-20
 permalink: /about/
 metadata:
-  title: Criminal and Family Law Lawyer Bathurst NSW
+  title: About Third Avenue Consulting
 eleventyNavigation:
   key: About
   order: 2
@@ -21,7 +21,7 @@ eleventyNavigation:
 
 ## ROCHELLE BURBURY - Principal ##
 
-<figure class="imageright img400"><img title="Rochelle Burbury" src="https://www.thirdavenue.com.au/uploads/images/assets/Rochelle-190530-square.jpg" alt="Rochelle Burbury" width="400px" height="auto">
+<figure class="imageright img400"><img title="Rochelle Burbury" src="/img/Rochelle-190530-square.jpg" alt="Rochelle Burbury" width="400px" height="auto">
 <figcaption>Rochelle Burbury</figcaption>
 </figure>
 
