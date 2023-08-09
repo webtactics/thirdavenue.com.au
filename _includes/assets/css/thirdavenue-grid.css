@@ -776,8 +776,12 @@ background-color: var(--primary); font-weight: bold;}
 
 
   
-
-
+  svg {
+ 
+    fill: white;}
+ svg:hover {
+ 
+    fill: blue;}
 
 
 
