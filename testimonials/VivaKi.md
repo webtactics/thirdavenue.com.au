@@ -1,8 +1,8 @@
 ---
 title: VivaKi
 date: 2023-04-19
-Contact-name: Sarah Keith
-Contact-position: Australian Head
+Contactname: Sarah Keith
+Contactposition: Australian Head
 Website: https://www.publicisgroupe.com/en
 description: I have worked with Rochelle over a number of years, from when she was a journalist, co-founder of an award winning PR agency through to now as the principal of a specialist independent PR firm.
 

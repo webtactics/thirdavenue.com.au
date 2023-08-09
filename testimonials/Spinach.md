@@ -1,8 +1,8 @@
 ---
 title: Spinach
 date: 2023-04-19
-Contact-name: Craig Flanders
-Contact-position: Co-Founder
+Contactname: Craig Flanders
+Contactposition: Co-Founder
 Website: https://spinach.com.au/
 description: Rochelle is the consummate PR professional.
 

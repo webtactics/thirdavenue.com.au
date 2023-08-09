@@ -1,8 +1,8 @@
 ---
 title: Creighton Ward
 date: 2023-04-19
-Contact-name: Lucia Elliott
-Contact-position: Principal
+Contactname: Lucia Elliott
+Contactposition: Principal
 Website: https://www.creightonward.com.au/
 description: Rochelle Burbury has been a colleague for more than six years in providing PR services to The Newspaper Works in my capacity as Marketing Director.
 

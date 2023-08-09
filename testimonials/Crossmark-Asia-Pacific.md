@@ -1,8 +1,8 @@
 ---
 title: Crossmark Asia Pacific
 date: 2023-04-19
-Contact-name: Kevin Moore
-Contact-position: Chairman
+Contactname: Kevin Moore
+Contactposition: Chairman
 Website: https://crossmark.com.au/
 description: We approached Rochelle and two other PR agencies just after the acquisition of TMD by CROSSMARK.
 

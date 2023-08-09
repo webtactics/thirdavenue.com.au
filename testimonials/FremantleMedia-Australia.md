@@ -1,8 +1,8 @@
 ---
 title: FremantleMedia Australia
 date: 2023-04-19
-Contact-name: Ian Hogg
-Contact-position: Regional CEO
+Contactname: Ian Hogg
+Contactposition: Regional CEO
 Website: https://www.fremantleaustralia.com/about-us/our-team
 description: I have known and worked with Rochelle for several years now and I have found her to be a true professional.
 

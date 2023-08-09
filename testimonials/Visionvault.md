@@ -1,8 +1,8 @@
 ---
 title: Visionvault
 date: 2023-04-19
-Contact-name: John Lamble
-Contact-position: Director
+Contactname: John Lamble
+Contactposition: Director
 Website: https://collaboro.com/
 description: Rochelle and Angela were invaluable to us when we launched our digital asset storage and management platform VisionVault.
 
