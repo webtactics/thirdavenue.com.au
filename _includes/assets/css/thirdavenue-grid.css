@@ -571,7 +571,9 @@ padding: 0 1rem;}
 }
 @media screen and (max-width: 1200px) {
   ul.main-menu > li > a {
-  padding: 0 0.5rem;}
+  padding: 0 0.5rem;
+  margin:0 0.5rem 0 0;
+  }
   }
 
 
