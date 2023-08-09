@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
-title: Third Avenue Consulting
-subtitle: Specialist, independent public relations
+title: Third Avenue Consulting is a specialist, independent Public Relations firm
+subtitle: Third Avenue Consulting is a specialist, independent Public Relations firm
 class: home
 date: 2023-07-20
 description: Third Avenue Consulting is a specialist, independent Public Relations firm established by Rochelle Burbury, a former Australian Financial Review editor, who has more than 25 years experience as a journalist, high-level PR practitioner and media trainer.
@@ -13,11 +13,14 @@ eleventyNavigation:
   order: 0
 ---
 
-## Specialist, independent public relations ##
+# Third Avenue Consulting is a specialist, independent Public Relations firm established by Rochelle Burbury, a former Australian Financial Review editor, who has more than 25 years experience as a journalist, high-level PR practitioner and media trainer. #
+Third Avenue specialises in corporate and business-to-business PR, media relations and reputation management. Our services include strategy, issues management, advice and counsel, key messaging, media relations, writing and editing.
 
-**James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.**
+We believe all effective PR should start with a strategy and deliver on it. Pro-activity is at the core of everything we do.
 
-James Taylor has been a practicing solicitor for more than 30 years. 
+Third Avenue currently represents a range of clients in the media, marketing, digital and research services sectors.
+
+Third Avenue also offers media training and key message development, conducted by former journalist and editor Rochelle Burbury, through <a href="/media-training">Third Avenue Media Training</a>.
 
 
 
