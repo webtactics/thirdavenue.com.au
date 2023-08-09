@@ -253,7 +253,7 @@ width: 100%;
     grid-template-columns: 120px 400px 1fr 120px;
     grid-template-areas:
       "hamburger logo navwrapper socialwrapper";
-      grid-template-rows: 54px; } 
+      grid-template-rows: 44px; } 
   
    
   }
