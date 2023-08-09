@@ -239,7 +239,7 @@ width: 100%;
    @media only screen and (min-width: 1025px) {  
     .headerwrapper {
     display: grid;
-    grid-template-columns: 120px 257px 1fr 120px;
+    grid-template-columns: 120px 300px 1fr 110px;
     grid-template-areas:
       "hamburger logo navwrapper socialwrapper";
       grid-template-rows: 54px; } 
@@ -251,7 +251,7 @@ width: 100%;
    @media only screen and (min-width: 1500px) {  
     .headerwrapper {
     display: grid;
-    grid-template-columns: 120px 257px 1fr 120px;
+    grid-template-columns: 120px 400px 1fr 120px;
     grid-template-areas:
       "hamburger logo navwrapper socialwrapper";
       grid-template-rows: 54px; } 
@@ -276,19 +276,13 @@ width: 100%;
         float:right;
       }
       @media screen and (min-width: 1025px) {
-        .logo img {max-width:257px;height:30px;}
+        .logo img {width:257px;height:30px;padding:12px 0 0;}
         
-    }
-      .scrolled .logo img {
-      
+      .scrolled .logo img  {width:257px;height:30px;padding:7px 0 0;}
       }
 
 
-@media screen and (min-width: 1500px) {
-        .logo img {}
-      .scrolled .logo img {}
-      
-      }
+
             
 
 @media screen and (max-width: 1025px) {
@@ -298,9 +292,7 @@ display: none;
 .logo {position:absolute;right:0;text-align: right;}
 .logo img {
 max-width:176px;max-height:auto;}
-.scrolled .logo img {
-
-}}
+}
 
 
 .offcanvas {
