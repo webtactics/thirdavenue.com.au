@@ -3,3 +3,20 @@
 {% endset %}
 <script>{{ js | jsmin | safe }}</script>
 
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script>
+$('.home-slide').slick({
+  autoplay: true,
+  infinite: true,
+  pauseOnHover: true,
+  swipeToSlide: true,
+  autoplaySpeed: 1000,
+  speed: 3000,
+  arrows: false,
+  dots: false,
+  fade: true,
+  cssEase: 'ease'
+    
+  });
+  </script>
