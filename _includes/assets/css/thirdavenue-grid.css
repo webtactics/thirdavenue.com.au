@@ -499,6 +499,7 @@ transition: all 0.6s;
 
 
 /* Menus */
+.childlist { float: right;margin:0 1rem 0 auto;  }
 
 ul, ul.menusocial, ul.main-menu, ul.footer-menu, ul.second-level {
   list-style: none;
@@ -510,7 +511,7 @@ ul, ul.menusocial, ul.main-menu, ul.footer-menu, ul.second-level {
     padding-inline-start: 0;
 }
 ul.main-menu {
-  margin:0 1rem 0 auto;  
+ 
 }
 ul.main-menu li {
   
