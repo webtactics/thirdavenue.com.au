@@ -294,9 +294,8 @@ width: 100%;
 .navwrapper, .socialwrapper {
 display: none;
 }
-.logo {position:absolute;right:0;text-align: right;}
-.logo img {
-width:257px;max-height:30px;}
+.logo {position:absolute;right:0;top:7px;text-align: right;}
+.logo img { width:257px;max-height:30px;}
 }
 
 
