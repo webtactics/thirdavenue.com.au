@@ -281,9 +281,9 @@ width: 100%;
     align-content: center;}
 
       @media screen and (min-width: 1025px) {
-        .logo img {width:257px;height:30px;padding:12px 0;}
+        .logo img {width:257px;height:30px;}
         
-      .scrolled .logo img  {width:257px;height:30px;padding:7px 0;}
+      .scrolled .logo img  {width:257px;height:30px;}
       }
 
 
