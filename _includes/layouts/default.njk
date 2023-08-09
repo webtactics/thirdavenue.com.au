@@ -13,10 +13,22 @@
 
 <div class="container">
    
-{% block content %}
+{% block content %} 
  <div class="caption-text"><h1><span>{{ title }}</span></h1></div>
 <main class="content">  
+ <div class="grid-2-columns-2x1">
+
+ <div class="detailwrapper">
 {{ layoutContent | safe }}
+</div>
+<div class="sidebarwrapper">
+<aside>
+{% set postslist = collections.services %}
+{% include "components/postslist-sidebar.njk" %}
+</aside>
+</div>
+
+ </div>
 </main>
 {% endblock %}
 
