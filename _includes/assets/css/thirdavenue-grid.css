@@ -535,6 +535,7 @@ ul.menusocial li {
 
 
 ul.main-menu > li > a {
+  margin:0 1rem 0 0;
   padding: 0 2rem;
   line-height: 38px;
   font-size: 1rem;
