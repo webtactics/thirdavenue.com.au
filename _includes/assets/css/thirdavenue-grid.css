@@ -698,7 +698,7 @@ display: block;
 position: relative;
 border-bottom: none;
 background-color: transparent;
-margin:5px 0;
+margin:5px 0 5px 0.5rem;
 -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
