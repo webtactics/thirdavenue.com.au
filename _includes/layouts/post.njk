@@ -8,7 +8,18 @@ section: post
 
 <article{% if post.url == url %} data-current="current item"{% endif %} >
 <div class="item postdetail">
-<div class="postdetailimage" align="center"><img src="{{ image }}/tr:w-800,h-533" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="800px" height="600px" class="postimg"></div>
+
+
+
+{{ title }}<br>
+{{ Contact-name }}<br>
+{{ Contact-position }}<br>
+{{ Website }}<br>
+{{ Website }}<br>
+{{ description }}<br>
+
+{{ if image }}<div class="postdetailimage" align="center"><img src="{{ image }}/tr:w-800,h-533" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="800px" height="600px" class="postimg"></div>{{ endif }}
+
 
 
 <div class="postdetailcontent">  
