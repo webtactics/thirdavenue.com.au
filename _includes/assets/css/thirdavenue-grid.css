@@ -296,7 +296,7 @@ display: none;
 }
 .logo {position:absolute;right:0;text-align: right;}
 .logo img {
-max-width:176px;max-height:auto;}
+width:257px;max-height:30px;}
 }
 
 
