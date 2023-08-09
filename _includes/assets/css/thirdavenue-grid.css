@@ -275,6 +275,10 @@ width: 100%;
         cursor:pointer;
         float:right;
       }
+
+.logo {justify-content: center;
+    align-content: center;}
+
       @media screen and (min-width: 1025px) {
         .logo img {width:257px;height:30px;padding:12px 0 0;}
         
