@@ -510,7 +510,7 @@ ul, ul.menusocial, ul.main-menu, ul.footer-menu, ul.second-level {
     padding-inline-start: 0;
 }
 ul.main-menu li {
-  float: left;
+
 }
 ul.menusocial li {
   float: right;
@@ -518,7 +518,7 @@ ul.menusocial li {
 }
 .main-menu > li {
     display: inline-block;
-    padding: 0;
+    padding: 0.5rem 1rem;
     margin:0;
     border: none;
     position: relative;
@@ -541,7 +541,7 @@ width: auto;
 
 
 ul.main-menu > li > a {
-  padding: 0;
+  padding: 0.5rem 1rem;
   line-height: 38px;
   font-size: 1.2rem;
   color: var(--white);
