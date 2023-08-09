@@ -510,19 +510,14 @@ ul, ul.menusocial, ul.main-menu, ul.footer-menu, ul.second-level {
     margin-inline-end: 0px;
     padding-inline-start: 0;
 }
-ul.main-menu {
- 
-}
-ul.main-menu li {
-  
-}
+
 ul.menusocial li {
   float: right;
   margin:0 1rem 0 0;
 }
 .main-menu > li {
     display: inline-block;
-    padding: 0 0.5rem;
+    padding: 0 3rem;
     margin:0;
     border: none;
     position: relative;
@@ -533,8 +528,9 @@ ul.menusocial li {
 
 @media screen and (max-width: 1200px) {
 
-.main-menu > li {
-width: auto;
+  .main-menu > li {
+
+    padding: 0 1rem;
 }
 }
 
