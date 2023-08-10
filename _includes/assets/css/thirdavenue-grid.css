@@ -2,7 +2,7 @@
 	--primary: hsla(330,100%,71%,1);
   --primarylight: hsla(330,100%,71%,0.6);
   --primarydark: hsla(330,56%,53%,1);
-	--white: var(--white);
+	--white: #ffffff;
   --white10: hsla(0,0%,100%,0.1);
   --white50: hsla(0,0%,100%,0.5);
   --white80: hsla(0,0%,100%,0.8);
@@ -1057,7 +1057,7 @@ figcaption {
       .bobtext {padding:0 1rem 1rem;}
     }
 
-    .maintestlisewrapper {margin:0;}
+    .maintestlisewrapper {margin: 0;}
 
     .outer-block { 
         -moz-column-count: 3;
@@ -1081,11 +1081,11 @@ figcaption {
     
       /* css3 */
     
-      border: 3px solid var(--black);
+      border: 3px solid #000000;
     
       padding: 10px 10px 0 10px;
     
-      background-color: var(--white);
+      background-color: #FFFFFF;
     
           border-radius: 4px;
     
@@ -1110,11 +1110,11 @@ figcaption {
     
       /* css3 */
     
-      border: 3px solid var(--black);
+      border: 3px solid #000000;
     
       padding: 10px 10px 0 10px;
     
-      background-color: var(--white);
+      background-color: #FFFFFF;
     
           border-radius: 4px;
     
