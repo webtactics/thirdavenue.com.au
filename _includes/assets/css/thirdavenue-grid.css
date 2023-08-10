@@ -2,7 +2,7 @@
 	--primary: hsla(330,100%,71%,1);
   --primarylight: hsla(330,100%,71%,0.6);
   --primarydark: hsla(330,56%,53%,1);
-	--white: #ffffff;
+	--white: var(--white);
   --white10: hsla(0,0%,100%,0.1);
   --white50: hsla(0,0%,100%,0.5);
   --white80: hsla(0,0%,100%,0.8);
@@ -1057,7 +1057,7 @@ figcaption {
       .bobtext {padding:0 1rem 1rem;}
     }
 
-    .maintestlisewrapper {margin:0.5rem 0.5rem 1rem 0.5rem;}
+    .maintestlisewrapper {margin:0;}
 
     .outer-block { 
         -moz-column-count: 3;
@@ -1077,15 +1077,15 @@ figcaption {
 
       margin: 0;
     
-      color: #696969; /* default background for browsers without gradient support */
+      color: var(--text); /* default background for browsers without gradient support */
     
       /* css3 */
     
-      border: 3px solid #000000;
+      border: 3px solid var(--black);
     
       padding: 10px 10px 0 10px;
     
-      background-color: #FFFFFF;
+      background-color: var(--white);
     
           border-radius: 4px;
     
@@ -1110,11 +1110,11 @@ figcaption {
     
       /* css3 */
     
-      border: 3px solid #000000;
+      border: 3px solid var(--black);
     
       padding: 10px 10px 0 10px;
     
-      background-color: #FFFFFF;
+      background-color: var(--white);
     
           border-radius: 4px;
     
@@ -1174,7 +1174,7 @@ figcaption {
     
       text-decoration: none;
     
-      background-color: #EBEBEB;	
+      background-color: var(--primary);	
     
     }	
     
