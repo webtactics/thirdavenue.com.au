@@ -1127,4 +1127,51 @@ figcaption {
     
     }		
     
-        
+    .testboxlink {
+
+      padding: 0 0 0 4.5em;
+    
+      margin: 8px 0 0 0;
+    
+      font-size: 1rem;
+    
+      background-image: url(../img/arrowside.png);
+    
+      background-position: left center;
+    
+      background-repeat: no-repeat;
+    
+      color: #000;
+    
+      font-weight:bold;
+    
+    }
+    
+      
+    
+    .testboxlink a{
+    
+      text-decoration: none;
+    
+      border-bottom-width: 1px;
+    
+      border-bottom-style: dotted;
+    
+      border-bottom-color: #999;
+    
+      color: #000;
+    
+      font-weight:bold;
+    
+    }
+    
+    
+    
+    .testboxlink a:hover{
+    
+      text-decoration: none;
+    
+      background-color: #EBEBEB;	
+    
+    }	
+    
