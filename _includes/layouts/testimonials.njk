@@ -1,13 +1,19 @@
----
-layout: layouts/default.njk
-section: testimonials
-class: testimonials
----
+{% extends "layouts/default.njk" %}
 
 
+
+
+
+{% block content %} 
+<main class="content"> 
+<div class="caption-text"><h1><span>{{ title }}</span></h1></div> 
+ <div class="textwrapper">
 {{ layoutContent | safe }}
-
-<div class="servicescontent">
-{% set postslist = collections.testimonials | reverse %}
+{% set postslist = collections.testimonials %}
 {% include "components/postslist.njk" %}
 </div>
+</main>
+{% endblock %}
+
+
+
