@@ -165,13 +165,13 @@ padding:0;}
   
 
   .quote.content {
-    margin: 3rem auto;
+    margin: 6rem auto 3rem auto;
     padding: 0;
     z-index: 2;
     width: calc(100vw - 10em);
     max-width: 1440px;
-    background-color: var(--white);
-    min-height: 150px;
+   
+ 
     }
 
 
