@@ -1179,7 +1179,8 @@ figcaption {
     
     }	
     
-.home-slide {max-width:auto;}
+.home-slide {width: calc(100vw - 6em);
+  max-width: 464px;}
 
 @media (max-width: 1028px) {
 .home-slide { max-width: calc(100vw - 1.6em);}
