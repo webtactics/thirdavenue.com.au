@@ -1070,6 +1070,16 @@ figcaption {
         -webkit-column-gap: 0.5rem;
         column-gap: 0.5rem;
     }
+
+
+    @media only screen and (max-width: 900px ) {
+      .outer-block { 
+          -moz-column-count: 1;
+          -webkit-column-count: 1;
+          column-count: 1;
+ 
+           }  
+          }
     .items { 
         display: inline-block;
         margin: 0 0 1rem;
@@ -1094,14 +1104,7 @@ figcaption {
     
         box-shadow: 0 4px 8px #A9A9A9;
     
-      -webkit-transition: box-shadow 0.2s ease-in-out;
-    
-      -moz-transition: box-shadow 0.2s ease-in-out;
-    
-      -o-transition: box-shadow 0.2s ease-in-out;
-    
-      transition: box-shadow 0.2s ease-in-out;
-      position: relative;
+ 
     
         }
     
@@ -1141,7 +1144,7 @@ figcaption {
     
       font-size: 1rem;
     
-      background-image: url(../img/arrowside.png);
+      background-image: url(/img/arrowside.png);
     
       background-position: left center;
     
