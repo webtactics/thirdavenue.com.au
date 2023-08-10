@@ -1231,3 +1231,118 @@ height:38px;
 width:50px;
 
 margin:0;}
+
+
+
+.block-italic {
+
+	position: relative;
+
+	padding: 15px 30px;
+
+	margin: 0 auto;
+
+	color: #FFFFFF; /* default background for browsers without gradient support */
+
+	/* css3 */
+
+	
+
+	-webkit-border-radius: 8px;
+
+	-moz-border-radius: 8px;
+
+	border-radius: 4px;
+
+	background-color: #696969;
+
+	font-family: 'Open Sans', sans-serif;
+
+	font-size: 140%;
+
+	padding: 20px 20px 6px 20px;
+
+	font-style: italic;
+
+	width:auto;
+
+	
+
+}
+
+.block-italic p {
+
+	color: #FFFFFF;
+
+}
+
+/* display of quote author (alternatively use a class on the element following the blockquote) */
+
+.block-italic + p {
+
+	margin:15px 0 2em 85px;
+
+	font-style:normal;
+
+	font-size: 110%;
+
+	color: #FFFFFF;
+
+}
+
+.block-italic + p a {
+
+	text-decoration: none;
+
+	border-bottom-width: 1px;
+
+	border-bottom-style: dotted;
+
+	border-bottom-color: #999;
+
+	color: #333333; 
+
+	font-size: 1.2em;}
+
+
+
+.block-italic + p a:hover {
+
+		text-decoration: none;
+
+	background-color: #EBEBEB;	
+
+}
+
+
+
+
+
+
+
+/* creates the triangle */
+
+.block-italic:after {
+
+	content:"";
+
+	position:absolute;
+
+	bottom:-50px;
+
+	left:50px;
+
+	border-width:0 20px 50px 0px;
+
+	border-style:solid;
+
+	border-color:transparent #BFBFBF;
+
+    /* reduce the damage in FF3.0 */
+
+    display:block; 
+
+    width:0;
+
+}
+
