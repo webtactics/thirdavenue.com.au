@@ -698,7 +698,7 @@ ul.menusocial {
 }
 
 
-svg {
+svg, .quoteleft svg, .quoteright svg {
  fill: var(--white);}
 
 svg:hover {
