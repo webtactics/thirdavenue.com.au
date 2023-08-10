@@ -1223,7 +1223,7 @@ figcaption {
 @media (max-width: 768px) {
   .home-slide { max-width: calc(100vw - 1.6em);}
   }
-.leftfloat  {
+.leftfloat, .quoteleft  {
 float: left;
 padding: 0 0.75rem 0 0;
 height:38px;
@@ -1232,7 +1232,7 @@ width:50px;
 margin:0;
 
     }
-.rightfloat  {
+.rightfloat, .quoteright  {
 float:right;
 padding: 0 0 0 0.75rem;
 height:38px;
