@@ -9,7 +9,7 @@ description: When it comes to business and trade media, Third Avenue is second t
 
 
 ---
-
+<span class="leftfloat">{% include "components/global/quote-left.html" %}</span>
 When it comes to business and trade media, Third Avenue is second to none.
 
 The team is exceptionally professional and accessible. They have wonderful media relationships and contacts. Third Avenue's skill set around crisis and issues management in particular, and all levels of PR advice, is unmatched. 
@@ -17,3 +17,6 @@ The team is exceptionally professional and accessible. They have wonderful media
 We have also engaged Third Avenue to conduct PR management training and preparation, including media training and key messaging skills.
 
 I highly recommend the Third Avenue team.
+<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
+
+

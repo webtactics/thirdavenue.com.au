@@ -11,8 +11,13 @@ description: We originally approached Rochelle to work with us to help build our
 
 ---
 
+<span class="leftfloat">{% include "components/global/quote-left.html" %}</span>
+We originally approached Rochelle to work with us to help build our profile in the media sector and increase awareness and understanding of the strength of our audience to advertisers.
+
+We have since seen a significant upturn in our share of voice in the media with a number of innovations and positive stories, which continued through the merger of Fairfax Radio and Macquarie Radio.
+
+Rochelle’s strategic expertise and strong relationships with journalists have certainly been key contributors to that success.
+<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
 
 
-<p>We originally approached Rochelle to work with us to help build our profile in the media sector and increase awareness and understanding of the strength of our audience to advertisers.</p>
-<p>We have since seen a significant upturn in our share of voice in the media with a number of innovations and positive stories, which continued through the merger of Fairfax Radio and Macquarie Radio.</p>
-<p>Rochelle&rsquo;s strategic expertise and strong relationships with journalists have certainly been key contributors to that success.</p>
+
