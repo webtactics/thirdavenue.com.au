@@ -4,12 +4,12 @@
 <div class="maintestlisewrapper">
 <div class="testbox1">
 <span class="leftfloat"><em class="fa fa-quote-left"></em></span>
-{{ layoutContent | safe }}   
+{{ post.data.layoutContent | safe }}   
 </div>
 <div class="testboxlink">
-{{ Contactname }}<br>
-{{ Contactposition }}
-<div class="testlinkbox"><a href="{{ Website }}" title="{{ title }}" alt="{{ title }}"  target="_blank">{{ title }}</a> </div>
+{{ post.data.Contactname }}<br>
+{{ post.data.Contactposition }}
+<div class="testlinkbox"><a href="{{ post.data.Website }}" post.data.title="{{ post.data.title }}" alt="{{ post.data.title }}"  target="_blank">{{ post.data.title }}</a> </div>
 </div>
 </div> 
 </div>
