@@ -3,10 +3,9 @@
 <div class="items">
 <div class="maintestlisewrapper">
 <div class="testbox1">
-<span class="leftfloat"><em class="fa fa-quote-left"></em></span>
-{% include "components/global/quote-left.html" %}
+<span class="leftfloat">{% include "components/global/quote-left.html" %}</span>
 {{ post.data.layoutContent | safe }}
-{% include "components/global/quote-right.html" %}
+<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
 </div>
 <div class="testboxlink">
 {{ post.data.Contactname }}<br>
