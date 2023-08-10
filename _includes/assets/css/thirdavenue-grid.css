@@ -571,7 +571,7 @@ padding: 0 1rem;}
 
 
   .footernavwrapper {
-    background-color: var(--black);height:36px;border-bottom: 1px solid var(--lightgrey);position: fixed;bottom: 0;width: 100%;z-index: 4
+    background-color: var(--black);height:36px;position: fixed;bottom: 0;width: 100%;z-index: 4
   }
     .footernav {
     margin: 0 auto;
@@ -650,7 +650,11 @@ ul.footer-menu li {
 
 @media (max-width: 768px) {
 
-  .footernavwrapper { height:auto;border-bottom: 1px solid var(--lightgrey);position: relative;bottom: 0;width: 100%;z-index: 4}
+  .footernavwrapper { height:auto;position: relative;bottom: 0;width: 100%;z-index: 4;}
+
+  .footernav {
+    width: calc(100vw - 1em);
+    }
   .footer-menu > li {
     width: 100%;
     text-align: center;
