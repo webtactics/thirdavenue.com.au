@@ -675,7 +675,7 @@ svg:hover {
 fill:var(--primary);}
 
 .maintestlisewrapper svg {
-  fill: var(--primary);}
+  fill: var(--black);}
 
 .menusocial > li {
     display: inline-block;
