@@ -194,7 +194,8 @@ padding: calc(0.5vw + 5px);
 
 @media screen and (max-width: 768px) {
   .content {
-    width: calc(100vw - 1rem);}
+    width: calc(100vw - 1rem);
+    margin: 5rem auto 3rem auto;}
 
 .caption-text {
     width: 100%;
@@ -207,6 +208,7 @@ padding: calc(0.5vw + 5px);
    .caption-text h1 { 
     margin:0;
     text-align: right; 
+    padding: 0.5rem;
    
    
     
