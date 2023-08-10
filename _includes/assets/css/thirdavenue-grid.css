@@ -1176,3 +1176,6 @@ figcaption {
     }	
     
     .home-slide {max-width:464px;}
+
+    .leftfloat {float:left;}
+    .rightfloat {float:right;}
