@@ -910,7 +910,7 @@ aspect-ratio: 450 / 270;
 @media (max-width: 768px) {
   .postdetailcontent {padding: 1rem;}
   .sidebarwrapper {padding: 0;margin:0;}
-  .home-slide { width: calc(100vw - 1em);}
+ 
   }
 
 
@@ -1179,7 +1179,11 @@ figcaption {
     
     }	
     
-    .home-slide {max-width:464px;}
+.home-slide {max-width:464px;}
+
+@media (max-width: 1028px) {
+.home-slide { width: calc(100vw - 1em);}
+}
 
 .leftfloat  {
 float: left;
