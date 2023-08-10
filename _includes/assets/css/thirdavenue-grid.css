@@ -1183,14 +1183,14 @@ figcaption {
 .leftfloat  {
 float: left;
 padding: 0 0.75rem 0 0;
-height:34px;
-width:34px;
+height:50px;
+width:50px;
 margin:0;
 
     }
 .rightfloat  {
 float:right;
 padding: 0 0 0 0.75rem;
-height:34px;
-width:34px;
+height:50px;
+width:50px;
 margin:0;}
