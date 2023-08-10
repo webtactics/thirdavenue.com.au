@@ -8,7 +8,9 @@ description: We approached Rochelle and two other PR agencies just after the acq
 
 ---
 
-
+<figure class="imageright img400"><img title="Rochelle Burbury" src="/img/Rochelle-190530-square.jpg" alt="Rochelle Burbury" width="400px" height="auto">
+<figcaption>Rochelle Burbury</figcaption>
+</figure>
 
 We approached Rochelle and two other PR agencies just after the acquisition of TMD by CROSSMARK. The brief was to build the CROSSMARK brand profile and relevancy amongst major retailers and brand owners in Australia and New Zealand.
 
