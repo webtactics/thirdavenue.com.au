@@ -1281,7 +1281,7 @@ margin:0;}
 .block-italic p {
 	color: var(--white);
 font-size: 130%;
-margin: 0 0 2rem 0;
+margin: 0 0 1.3rem 0;
 }
 
 /* display of quote author (alternatively use a class on the element following the blockquote) */
