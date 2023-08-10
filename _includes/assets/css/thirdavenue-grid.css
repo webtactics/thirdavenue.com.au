@@ -1180,10 +1180,13 @@ figcaption {
 
     .leftfloat svg {
       float: left;
-      padding: 0 0.5rem 0 0;
-      font-size: 1.6rem;
-      line-height: 1;
-      max-width:40px;
-      margin:0;
+padding: 0;
+height:34px;
+width:34px;
+margin:0;
     }
-    .rightfloat svg {float:right;max-width:40px; margin:0;}
+    .rightfloat svg {float:right;
+      padding: 0;
+      height:34px;
+      width:34px;
+      margin:0;}
