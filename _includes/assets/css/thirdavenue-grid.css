@@ -753,7 +753,7 @@ margin:5px 0;
 
 
 .menusocial > li > a:hover {
-  background-color: transparent;
+  background-color: var(--primary);
   border-bottom: none;
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
