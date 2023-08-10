@@ -1178,10 +1178,10 @@ figcaption {
     
     .home-slide {max-width:464px;}
 
-    .leftfloat {
+    .leftfloat svg {
       float: left;
       padding: 0 0.5rem 0 0;
       font-size: 1.6rem;
       line-height: 1;
     }
-    .rightfloat {float:right;}
+    .rightfloat svg {float:right;}
