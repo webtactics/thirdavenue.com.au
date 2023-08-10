@@ -165,12 +165,12 @@ padding:0;}
   
 
   .quote.content {
-    margin: 6rem auto 3rem auto;
+    margin: 8rem auto 3rem auto;
     padding: 0;
     z-index: 2;
     width: calc(100vw - 10em);
     max-width: 1440px;
-   
+    min-height: 150px;
  
     }
 
@@ -698,7 +698,7 @@ ul.menusocial {
 }
 
 
-svg, .quoteleft svg, .quoteright svg {
+svg, .quoteleft img, .quoteright img {
  fill: var(--white);}
 
 svg:hover {
