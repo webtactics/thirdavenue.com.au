@@ -1183,5 +1183,6 @@ figcaption {
       padding: 0 0.5rem 0 0;
       font-size: 1.6rem;
       line-height: 1;
+      max-width:40px;
     }
-    .rightfloat svg {float:right;}
+    .rightfloat svg {float:right;max-width:40px;}
