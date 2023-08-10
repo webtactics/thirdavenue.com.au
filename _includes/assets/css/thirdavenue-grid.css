@@ -1166,7 +1166,7 @@ figcaption {
       color: var(--black);
     
       font-weight:700;
-      
+      padding:0.5rem;
     
     }
     
@@ -1177,7 +1177,7 @@ figcaption {
       text-decoration: none;
     
       background-color: var(--primary);	
-    
+      color: var(--white);
     }	
     
 .home-slide {max-width: 464px;}
