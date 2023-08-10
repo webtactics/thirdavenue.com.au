@@ -1179,10 +1179,10 @@ figcaption {
     
     }	
     
-.home-slide {width:464px;}
+.home-slide {max-width:464px;}
 
 @media (max-width: 1028px) {
-.home-slide { width: calc(100vw - 1em);}
+.home-slide { max-width: calc(100vw - 1.6em);}
 }
 
 .leftfloat  {
