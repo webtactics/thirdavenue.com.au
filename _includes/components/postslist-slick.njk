@@ -1,0 +1,21 @@
+<div class="homeslide">
+{% for post in postslist | reverse %}
+<div class="items">
+<div class="maintestlisewrapper">
+<div class="testbox1">
+<span class="leftfloat"><em class="fa fa-quote-left"></em></span>
+{% include "components/global/quote-left.html" %}
+{{ post.data.layoutContent | safe }}
+{% include "components/global/quote-right.html" %}
+</div>
+<div class="testboxlink">
+{{ post.data.Contactname }}<br>
+{{ post.data.Contactposition }}
+<div class="testlinkbox"><a href="{{ post.data.Website }}" post.data.title="{{ post.data.title }}" alt="{{ post.data.title }}"  target="_blank">{{ post.data.title }}</a> </div>
+</div>
+</div> 
+</div>
+{% endfor %}
+</div>
+
+
