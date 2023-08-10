@@ -666,7 +666,7 @@ ul.footer-menu li {
     width: 100%;
     color: var(--primary);
     background-color: transparent;
-    border:1px solid var(--lightgrey);
+ 
   }
 
   .footer-menu > li > a:hover, .footer-menu > li > a:active {
@@ -674,7 +674,7 @@ ul.footer-menu li {
     width: 100%;
     color: var(--white);
     background-color: var(--primary);
-    border:1px solid var(--lightgrey);
+ 
   }
 }
 /* Menusocial */
