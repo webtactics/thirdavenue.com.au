@@ -1098,6 +1098,7 @@ figcaption {
       -o-transition: box-shadow 0.2s ease-in-out;
     
       transition: box-shadow 0.2s ease-in-out;
+      position: relative;
     
         }
     
@@ -1179,12 +1180,15 @@ figcaption {
     
     .home-slide {max-width:464px;}
 
-    .leftfloat svg {
+    .leftfloat  {
       float: left;
 padding: 0;
 height:34px;
 width:34px;
 margin:0;
+position:absolute;
+top:0;
+left:0;
     }
     .rightfloat svg {float:right;
       padding: 0;
