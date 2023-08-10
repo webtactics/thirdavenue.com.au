@@ -15,7 +15,7 @@ I have known and worked with Rochelle for several years now and I have found her
 
 Rochelle has worked as a senior journalist and in PR which brings a unique perspective to her business.
 
-She understands the media better than anyone else and brings great strategic skills to the table and well as telling it like it is, which is a rare and valuable in this business.<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
+She understands the media better than anyone else and brings great strategic skills to the table as well as telling it like it is, which is a rare and valuable in this business.<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
 
 
 
