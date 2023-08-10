@@ -1189,9 +1189,11 @@ figcaption {
 
 
 @media (max-width: 1028px) {
-.home-slide { max-width: calc(100vw - 1.6em);}
+.home-slide { max-width: calc(90vw - 4em);}
 }
-
+@media (max-width: 768px) {
+  .home-slide { max-width: calc(100vw - 1.6em);}
+  }
 .leftfloat  {
 float: left;
 padding: 0 0.75rem 0 0;
