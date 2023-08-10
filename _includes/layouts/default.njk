@@ -22,7 +22,7 @@
 </div>
 <div class="sidebarwrapper">
 <aside>
-{% set postslist = collections.testimonials %}
+{% set postslist = collections.testimonials | reverse %}
 {% include "components/postslist-sidebar.njk" %}
 </aside>
 </div>
