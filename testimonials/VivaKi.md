@@ -1,6 +1,6 @@
 ---
 title: VivaKi
-date: 2023-04-19
+date: 2023-04-02
 Contactname: Sarah Keith
 Contactposition: Australian Head
 Website: https://www.publicisgroupe.com/en

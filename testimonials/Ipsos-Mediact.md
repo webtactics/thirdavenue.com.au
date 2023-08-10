@@ -1,6 +1,6 @@
 ---
 title: Ipsos Mediact
-date: 2023-04-19
+date: 2023-04-07
 Contactname: Simon Wake
 Contactposition: Managing Director
 Website: https://www.ipsos.com/en-au

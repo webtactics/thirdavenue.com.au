@@ -1,6 +1,6 @@
 ---
 title: Spinach
-date: 2023-04-19
+date: 2023-04-09
 Contactname: Craig Flanders
 Contactposition: Co-Founder
 Website: https://spinach.com.au/

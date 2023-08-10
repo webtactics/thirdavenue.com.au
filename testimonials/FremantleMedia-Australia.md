@@ -1,6 +1,6 @@
 ---
 title: FremantleMedia Australia
-date: 2023-04-19
+date: 2023-04-03
 Contactname: Ian Hogg
 Contactposition: Regional CEO
 Website: https://www.fremantleaustralia.com/about-us/our-team

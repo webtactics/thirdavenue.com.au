@@ -7,7 +7,7 @@
 {% block content %} 
 <main class="content"> 
 <div class="caption-text"><h1><span>{{ title }}</span></h1></div> 
- <div class="textwrapper">
+<div class="textwrapper">
 {{ layoutContent | safe }}
 {% set postslist = collections.testimonials %}
 {% include "components/postslist.njk" %}
