@@ -1143,22 +1143,17 @@ figcaption {
       margin: 8px 0 0 0;
     
       font-size: 1rem;
+      padding:0.5rem;
     
-      background-image: url(/img/arrowside.png);
+      color: var(--black);
     
-      background-position: left center;
-    
-      background-repeat: no-repeat;
-    
-      color: #000;
-    
-      font-weight:bold;
+      font-weight:700;
     
     }
     
       
     
-    .testboxlink a{
+    .testboxlink a {
     
       text-decoration: none;
     
@@ -1166,11 +1161,12 @@ figcaption {
     
       border-bottom-style: dotted;
     
-      border-bottom-color: #999;
+      border-bottom-color: var(--primary);
     
-      color: #000;
+      color: var(--black);
     
-      font-weight:bold;
+      font-weight:700;
+      
     
     }
     
