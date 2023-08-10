@@ -1055,3 +1055,76 @@ figcaption {
       .bobtext {padding:0 1rem 1rem;}
     }
 
+    .maintestlisewrapper {margin:0.5rem 0.5rem 1rem 0.5rem;}
+
+    .outer-block { 
+        -moz-column-count: 3;
+        -webkit-column-count: 3;
+        column-count: 3;
+        -moz-column-gap: 0.5rem;
+        -webkit-column-gap: 0.5rem;
+        column-gap: 0.5rem;
+    }
+    .items { 
+        display: inline-block;
+        margin: 0 0 1rem;
+        width: 100%;
+    }
+
+    .testbox1 {
+
+      margin: 0;
+    
+      color: #696969; /* default background for browsers without gradient support */
+    
+      /* css3 */
+    
+      border: 3px solid #000000;
+    
+      padding: 10px 10px 0 10px;
+    
+      background-color: #FFFFFF;
+    
+          border-radius: 4px;
+    
+        box-shadow: 0 4px 8px #A9A9A9;
+    
+      -webkit-transition: box-shadow 0.2s ease-in-out;
+    
+      -moz-transition: box-shadow 0.2s ease-in-out;
+    
+      -o-transition: box-shadow 0.2s ease-in-out;
+    
+      transition: box-shadow 0.2s ease-in-out;
+    
+        }
+    
+    .testbox1a:hover {
+    
+    margin: 0;
+    
+      color: #696969; /* default background for browsers without gradient support */
+    
+      /* css3 */
+    
+      border: 3px solid #000000;
+    
+      padding: 10px 10px 0 10px;
+    
+      background-color: #FFFFFF;
+    
+          border-radius: 4px;
+    
+    box-shadow: 0 4px 8px #A9A9A9;
+    
+      -webkit-transition: box-shadow 0.2s ease-in-out;
+    
+      -moz-transition: box-shadow 0.2s ease-in-out;
+    
+      -o-transition: box-shadow 0.2s ease-in-out;
+    
+      transition: box-shadow 0.2s ease-in-out;
+    
+    }		
+    
+        
