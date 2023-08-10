@@ -1198,16 +1198,16 @@ figcaption {
 .leftfloat  {
 float: left;
 padding: 0 0.75rem 0 0;
-height:50px;
+height:38px;
 width:50px;
-aspect-ratio: 1 /1;
+
 margin:0;
 
     }
 .rightfloat  {
 float:right;
 padding: 0 0 0 0.75rem;
-height:50px;
+height:38px;
 width:50px;
-aspect-ratio: 1 /1;
+
 margin:0;}
