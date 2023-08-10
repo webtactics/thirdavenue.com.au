@@ -16,4 +16,4 @@ I have worked with Rochelle over a number of years, from when she was a journali
 
 During these different incarnations Rochelle has delivered consistently on the various briefs set.
 
-She has been a hugely valuable asset as she works as part of the team ensuring that all bases are covered from strategy and messaging through to delivery.
+She has been a hugely valuable asset as she works as part of the team ensuring that all bases are covered from strategy and messaging through to delivery.<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
