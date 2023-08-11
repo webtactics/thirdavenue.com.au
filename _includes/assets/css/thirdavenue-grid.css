@@ -1150,8 +1150,9 @@ figcaption {
         .testbox1 p {clear:right;}
 
         .text-content {
-          float: left;
+          
           width: 100%; /* Adjust as needed */
+          position: absolute;
         }
     
     .testboxlink {
