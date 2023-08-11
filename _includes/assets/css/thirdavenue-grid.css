@@ -1259,7 +1259,7 @@ display: grid;
   padding: 15px 30px;
 margin: 0 auto;
 color: var(--white); /* default background for browsers without gradient support */
-
+position: relative;
 
 
 	
