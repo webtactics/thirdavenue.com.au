@@ -9,14 +9,18 @@
 {% include "components/off-canvas.njk" %}
 {% if page.url == "/contact/" %}
 {% include "components/hero-contact.njk" %}
+{% endif %}
 {% if page.url == "/testimonials/" %}
 {% include "components/hero-testimonials.njk" %}
+{% endif %}
 {% if page.url == "/media-training/" %}
 {% include "components/hero-media-training.njk" %}
+{% endif %}
 {% if page.url == "/about/" %}
 {% include "components/hero-about.njk" %}
-{% include "components/hero.njk" %}
 {% endif %}
+{% include "components/hero.njk" %}
+
 
 <div class="container">
 
