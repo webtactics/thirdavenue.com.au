@@ -16,7 +16,7 @@ We originally approached Rochelle to work with us to help build our profile in t
 
 We have since seen a significant upturn in our share of voice in the media with a number of innovations and positive stories, which continued through the merger of Fairfax Radio and Macquarie Radio.
 
-Rochelle’s strategic expertise and strong relationships with journalists have certainly been key contributors to that success.<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
+Rochelle’s strategic expertise and strong relationships with journalists have certainly been key contributors to that success.
 
 
 

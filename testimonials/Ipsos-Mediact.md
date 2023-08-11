@@ -13,6 +13,6 @@ Rochelle delivers strategic PR advice that is honest, direct and thought through
 
 She is proactive and responsive, understands the market and is respected across the media fraternity.
 
-I’ve known Rochelle in a professional capacity for many years, she is consistent and she cares.<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
+I’ve known Rochelle in a professional capacity for many years, she is consistent and she cares.
 
 

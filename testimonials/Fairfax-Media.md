@@ -16,7 +16,7 @@ The team is exceptionally professional and accessible. They have wonderful media
 
 We have also engaged Third Avenue to conduct PR management training and preparation, including media training and key messaging skills.
 
-I highly recommend the Third Avenue team.<span class="rightfloat">{% include "components/global/quote-right.html" %}</span>
+I highly recommend the Third Avenue team.
 
 
 
