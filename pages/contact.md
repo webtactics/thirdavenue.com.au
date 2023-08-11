@@ -21,7 +21,12 @@ M: <a title="Call Third Avenue Consulting" alt="Call Third Avenue Consulting" hr
 E: <a title="Email Rochelle@thirdavenue.com.au" alt="Email Rochelle@thirdavenue.com.au" href="mailto:Rochelle@thirdavenue.com.au">Rochelle@thirdavenue.com.au</a></p>
 
 
-
+<div class="content socialwrapper">
+<ul class="menusocial">
+<li><a title="Follow Third Avenue Consulting on Twitter" href="https://twitter.com/rburbury" target="_blank"><img src="/img/assets/twitter-x-48.svg" alt="Follow Third Avenue Consulting on Twitter" title="Follow Third Avenue Consulting on Twitter"></a></li>
+<li><a title="Follow Third Avenue Consulting on LinkedIn" href="https://www.linkedin.com/in/rochelleburbury/" target="_blank"><img src="/img/assets/linkedin-2.svg" alt="Follow Third Avenue Consulting on LinkedIn" title="Follow Third Avenue Consulting on LinkedIn"></a></li>
+</ul>
+</div>
 
 
 
