@@ -35,10 +35,13 @@ Third Avenue Media Training develops and enhances professional communication ski
 
 ### Trainers ###
 Your trainer is Rochelle Burbury, who has 20 years experience as a journalist and editor and has been a media trainer for more than a decade.
+
 **Rochelle Burbury**
 Rochelle Burbury has more than 25 years' experience as a journalist, editor, media trainer and PR professional. As a business journalist and editor, Rochelle has written on media, marketing, advertising, consumer trends, retail and general business. Rochelle began her career at media, advertising and marketing journal **B&T Magazine**, where she was promoted to Editor. She then joined **The Sydney Morning Herald** as Media & Marketing Editor, followed by **The Australian** in a similar role. Before establishing her own PR consultancy Access PR, Rochelle was Media & Marketing Editor at **The Australian Financial Review**, where she also wrote for **AFR BOSS** and the **AFR Magazine**. In 2011, Rochelle sold Access PR and in 2012 worked with **AdNews** magazine as Consulting Editor. She established public relations firm, Third Avenue Consulting, in 2013. Rochelle is a former Board member of the International Advertising Association (IAA) and a mentor with Legends & Leaders. Rochelle has judged B&T Awards, PANPA Newspaper of the Year Awards, AdNews Awards, Mumbrella Publish Awards and Mumbrella CommsCon Awards.
 Please contact <a href="mailto:Rochelle@thirdavenue.com.au?subject=Third%20Avenue%20Media%20Training%20query">Rochelle Burbury</a> for further information.
+
 Example agendas:
+
 **1: On-Camera Interviews and Media Awareness**
 
 - Interview preparation and techniques
