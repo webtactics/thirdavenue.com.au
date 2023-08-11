@@ -1,4 +1,18 @@
+{% if page.url == "/contact/" %}
+{% include "components/hero-contact.njk" %}
+{% if page.url == "/testimonials/" %}
+{% include "components/hero-testimonials.njk" %}
+{% if page.url == "/media-training/" %}
+{% include "components/hero-media-training.njk" %}
+{% if page.url == "/about/" %}
+{% include "components/hero-about.njk" %}
+{% else %}
 <div class="quote content">
 <blockquote class="block-italic"><p><span class="quoteleft">{% include "components/global/quote-left.html" %}</span>The way to gain a good reputation is to endeavor to be what you desire to appear.<span class="quoteright">{% include "components/global/quote-right.html" %}</span></p></blockquote>
 <p><a title="Socrates" href="http://en.wikipedia.org/wiki/Socrates" target="_blank" rel="noopener">Socrates</a></p>
 </div>
+{% endif %}
+
+
+
+
