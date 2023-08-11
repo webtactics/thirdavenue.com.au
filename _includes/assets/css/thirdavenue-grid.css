@@ -1147,7 +1147,7 @@ figcaption {
     
         }
     
-        .testbox1 p {clear:both;}
+        .testbox1 p {clear:right;}
     
     .testboxlink {
 
