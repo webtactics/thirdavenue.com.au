@@ -1236,7 +1236,7 @@ margin:0;}
   -ms-wrap-flow: both;
   -ms-wrap-margin: 10px;
   z-index: 1;
-  position:absolute;
+  position:relative;
   right:0;
   bottom:100px;
   width: 50px;
