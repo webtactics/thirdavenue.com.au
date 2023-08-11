@@ -1261,13 +1261,7 @@ height:38px;
 width:50px;
 }
 
-.rightfloat:before {
-  content: '' ;
-  display:block;
-  float: right;
-  height: 50px;
-  padding: 0.75rem 0 0 0.75rem;
-}
+
 
 .block-italic {
 display: grid;
