@@ -12,8 +12,8 @@ eleventyNavigation:
 ---
 
 # Media Training: #
-- How prepared are your executives to handle media interviews - both positive and hostile?*
-- *Do your spokespeople know what they should and, more importantly, shouldn't say publicly? *
+- *How prepared are your executives to handle media interviews - both positive and hostile?*
+- *Do your spokespeople know what they should and, more importantly, shouldn't say publicly?*
 - *Do your executives stay "on message" about the company when talking to all stakeholders?*
 
 Third Avenue Media Training is a bespoke training firm offering key message development and media training and awareness for executives who want to clearly communicate to all stakeholders and who are conscious of their public image.
