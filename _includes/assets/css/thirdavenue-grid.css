@@ -1235,7 +1235,7 @@ margin:0;}
   float:right;  
   clear:both;
   width: 50px ;
-  margin: 30px -50px 10px 10px ;
+  margin: 0;
 }
 
 /** Image has to be wrapped in div. This creates a shiv to bump down the image and all text to wrap **/
