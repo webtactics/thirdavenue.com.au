@@ -1094,7 +1094,7 @@ figcaption {
         grid-template-columns: repeat(1, 1fr);
       }
 
-      .pink {margin:3rem auto 5rem auto;}
+      .pink {margin:5rem auto 5rem auto;}
 
       .bobimage {padding:1rem 1rem 0;}
       .bobtext {padding:0 1rem 1rem;}
