@@ -9,7 +9,7 @@
 {% include "components/off-canvas.njk" %}
 
 {% block hero %} 
-{% elif page.url == "/contact/" %}
+{% if page.url == "/contact/" %}
 {% include "components/hero-contact.njk" %}
 {% elif page.url == "/testimonials/" %}
 {% include "components/hero-testimonials.njk" %}
