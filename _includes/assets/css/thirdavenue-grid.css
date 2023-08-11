@@ -1232,8 +1232,11 @@ margin:0;}
 .rightfloat {
   float: right;
   clear: right; /* Clear float to prevent text from wrapping around */
+  padding: 0 0.75rem 0 0;
+  height:38px;
+  width:50px;
+  margin:0;
 }
-
 
 
 .block-italic {
