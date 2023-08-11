@@ -1229,15 +1229,8 @@ height:38px;
 width:50px;
 margin:0;}
 
+
 .rightfloat {
-  float: right;
-  clear: right; /* Clear float to prevent text from wrapping around */
-  padding: 0 0.75rem 0 0;
-  height:38px;
-  width:50px;
-  margin:0;
-}
-.exclusion {
   background-color: lime;
   -ms-wrap-flow: both;
   -ms-wrap-margin: 10px;
@@ -1247,6 +1240,8 @@ margin:0;}
   bottom:100px;
   width: 50px;
   height: 50px;
+  float: right;
+  clear: right; /* Clear float to prevent text from wrapping around */
 
 }
 
