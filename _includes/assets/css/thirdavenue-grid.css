@@ -1303,7 +1303,7 @@ line-height: 150%;
 
 	font-size: 110%;
 
-	color: #FFFFFF;
+	color: var(--text); 
 
 }
 
@@ -1317,17 +1317,16 @@ line-height: 150%;
 
 	border-bottom-color: #999;
 
-	color: #333333; 
+	color: var(--text); 
 
 	font-size: 1.2em;}
 
 
 
 .block-italic + p a:hover {
-
-		text-decoration: none;
-
-	background-color: #EBEBEB;	
+	color: var(--white); 
+text-decoration: none;
+background-color: var(--primary);
 
 }
 
