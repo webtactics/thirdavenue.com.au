@@ -7,21 +7,20 @@
 <body class=" {{ class }} " >
 {% include "components/header.njk" %}
 {% include "components/off-canvas.njk" %}
-{% if page.url == "/contact/" %}
+
+{% block hero %} 
+{% elif page.url == "/contact/" %}
 {% include "components/hero-contact.njk" %}
-{% endif %}
-{% if page.url == "/testimonials/" %}
+{% elif page.url == "/testimonials/" %}
 {% include "components/hero-testimonials.njk" %}
-{% endif %}
-{% if page.url == "/media-training/" %}
+{% elif page.url == "/media-training/" %}
 {% include "components/hero-media-training.njk" %}
-{% endif %}
-{% if page.url == "/about/" %}
+{% elif page.url == "/about/" %}
 {% include "components/hero-about.njk" %}
-{% endif %}
+{% else %}
 {% include "components/hero.njk" %}
-
-
+{% endif %}
+{% endblock %}
 <div class="container">
 
 {% block content %} 
