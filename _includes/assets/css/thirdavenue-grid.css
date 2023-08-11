@@ -1243,16 +1243,23 @@ width:50px;
 margin:0;
 
     }
-.rightfloat, .quoteright  {
+.quoteright  {
 float:right;
 padding: 0 0 0 0.75rem;
 height:38px;
 width:50px;
 margin:0;}
 
-.rightfloat img {position: absolute;
+
+
+.rightfloat img {
+position: absolute;
 bottom:98px;
-right:10px;}
+right:10px;
+clear:left;
+height:38px;
+width:50px;
+}
 
 .rightfloat:before {
   content: '' ;
