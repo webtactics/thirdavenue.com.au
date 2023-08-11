@@ -587,7 +587,7 @@ padding: 0 1rem;}
 
 
   .footernavwrapper {
-    background-color: var(--black);height:36px;position: fixed;bottom: 0;width: 100%;z-index: 4
+  background-color: var(--black);height:36px;bottom: 0;width: 100%;z-index: 4
   }
     .footernav {
     margin: 0 auto;
