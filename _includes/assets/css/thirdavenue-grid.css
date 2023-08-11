@@ -1100,6 +1100,11 @@ figcaption {
       .bobtext {padding:0 1rem 1rem;}
     }
 
+    @media (max-width: 500px) {
+      .grid-2-columns-bob {
+        width: calc(100vw - 2em);}
+      }
+
     .maintestlisewrapper {margin: 0;}
 
     .outer-block { 
