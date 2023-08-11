@@ -1152,7 +1152,7 @@ figcaption {
         .text-content {
           
           width: 100%; /* Adjust as needed */
-          position: absolute;
+          position: relative;
         }
     
     .testboxlink {
