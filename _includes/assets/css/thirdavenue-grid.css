@@ -710,14 +710,7 @@ ul.menusocial {
   margin:0;
 }
 
-svg, .quoteleft img, .quoteright img {
- fill: var(--white);}
 
-svg:hover {
-fill:var(--primary);}
-
-.maintestlisewrapper svg {
-  fill: var(--black);}
 
 ul.menusocial > li {
     display: inline-block;
@@ -1106,7 +1099,7 @@ figcaption {
         width: calc(100vw - 2em);}
       }
 
-    .maintestlisewrapper {margin: 0;}
+    .maintestlisewrapper {margin: 0;position: relative;}
 
     .outer-block { 
         -moz-column-count: 3;
@@ -1255,9 +1248,11 @@ float:right;
 padding: 0 0 0 0.75rem;
 height:38px;
 width:50px;
-
 margin:0;}
 
+.rightfloat {position: absolute;
+bottom:0;
+right:0;}
 
 
 .block-italic {
