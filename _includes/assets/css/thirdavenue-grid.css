@@ -753,7 +753,7 @@ background-color: var(--white);
 
 }
 
-
+.contentsocialwrapper ul.menusocial > li > a {background-color: var(--lightgrey);}
 
 .menusocial > li > a:hover {
   background-color: var(--primary);
