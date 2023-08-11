@@ -8,18 +8,7 @@
 {% include "components/header.njk" %}
 {% include "components/off-canvas.njk" %}
 {% block hero %}
-{% if page.url == "/contact/" %}
-{% include "components/hero-contact.njk" %}
-{% if page.url == "/testimonials/" %}
-{% include "components/hero-testimonials.njk" %}
-{% if page.url == "/media-training/" %}
-{% include "components/hero-media-training.njk" %}
-{% if page.url == "/about/" %}
-{% include "components/hero-about.njk" %}
-{% else %}
 {% include "components/hero.njk" %}
-{% endif %}
-
 {% endblock %}
 
 <div class="container">
