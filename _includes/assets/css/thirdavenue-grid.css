@@ -1231,19 +1231,20 @@ width:50px;
 margin:0;}
 
 
-.rightfloat {
-  background-color: lime;
-  -ms-wrap-flow: both;
-  -ms-wrap-margin: 10px;
-  z-index: 1;
-  position:relative;
-  right:0;
-  bottom:10px;
-  width: 50px;
-  height: 50px;
-  float: right;
-  clear: left; /* Clear float to prevent text from wrapping around */
+.rightfloat img {
+  float:right;  
+  clear:both;
+  width: 50px ;
+  margin: 30px -50px 10px 10px ;
+}
 
+/** Image has to be wrapped in div. This creates a shiv to bump down the image and all text to wrap **/
+.rightfloat:before {
+  content: '' ;
+  display:block;
+  float: right;
+  height: 50px;
+  
 }
 
 .block-italic {
