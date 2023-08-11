@@ -729,7 +729,7 @@ fill:var(--primary);}
     text-align: center;
 }
 
-
+.contentsocialwrapper ul.menusocial > li {    margin:0 0 0 0.5rem;}
 
 .menusocial > li > a {
   line-height: 44px;
