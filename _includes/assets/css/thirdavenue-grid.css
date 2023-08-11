@@ -1238,11 +1238,11 @@ margin:0;}
   z-index: 1;
   position:relative;
   right:0;
-  bottom:100px;
+  bottom:10px;
   width: 50px;
   height: 50px;
   float: right;
-  clear: right; /* Clear float to prevent text from wrapping around */
+  clear: left; /* Clear float to prevent text from wrapping around */
 
 }
 
