@@ -148,7 +148,7 @@ line-height: 1.5rem;
 margin: 0 0 1rem 0;
 padding:0;}
 
-.container {position: relative; margin: 8rem auto; }
+.container {position: relative; margin: 7rem auto; }
 
 @media screen and (max-width: 768px) {
   .container {position: relative; margin: 4rem auto; }
