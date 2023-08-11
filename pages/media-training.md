@@ -17,8 +17,11 @@ eleventyNavigation:
 - *Do your executives stay "on message" about the company when talking to all stakeholders?*
 
 Third Avenue Media Training is a bespoke training firm offering key message development and media training and awareness for executives who want to clearly communicate to all stakeholders and who are conscious of their public image.
+
 We believe that traditional "media training" is only part of the equation. Our clients are savvy, reputation-aware and acutely mindful that all stakeholder communication, whether it is to the media, shareholders, clients, peers or internally focused, must be led by the confident delivery of clear and consistent key messages.
+
 Our training program comprehensively coaches executives on the media landscape, interview techniques and dealing with journalists. We place strong emphasis on tailored key message creation to boost overall communication by providing clarity, focus and precision.
+
 ## Why media and key message training? ##
 
 - To understand how the media and journalists work
@@ -31,6 +34,7 @@ Our training program comprehensively coaches executives on the media landscape, 
 - To get the best outcome from your media coverage.
 
 The modern workplace, coupled with an explosion in media channels and a 24/7 media environment, demands that key executives develop strong communication skills so they can effectively present their story to key stakeholders. Media interviews, public speaking, networking events, social media, staff meetings and even social events are all marketing opportunities to promote your company's brands and vision.
+
 Third Avenue Media Training develops and enhances professional communication skills to ensure executives deliver the right message every time.
 
 ### Trainers ###
