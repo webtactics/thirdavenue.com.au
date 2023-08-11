@@ -16,6 +16,7 @@ eleventyNavigation:
 - *Do your spokespeople know what they should and, more importantly, shouldn't say publicly?*
 - *Do your executives stay "on message" about the company when talking to all stakeholders?*
 
+
 Third Avenue Media Training is a bespoke training firm offering key message development and media training and awareness for executives who want to clearly communicate to all stakeholders and who are conscious of their public image.
 
 We believe that traditional "media training" is only part of the equation. Our clients are savvy, reputation-aware and acutely mindful that all stakeholder communication, whether it is to the media, shareholders, clients, peers or internally focused, must be led by the confident delivery of clear and consistent key messages.
