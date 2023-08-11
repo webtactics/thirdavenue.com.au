@@ -6,18 +6,29 @@
 	
 <body class=" {{ class }} " >
 {% include "components/header.njk" %}
-  {% include "components/off-canvas.njk" %}
-  {% block hero %}
-  {% include "components/hero.njk" %}
-  {% endblock %}
+{% include "components/off-canvas.njk" %}
+{% block hero %}
+{% if page.url == "/contact/" %}
+{% include "components/hero-contact.njk" %}
+{% if page.url == "/testimonials/" %}
+{% include "components/hero-testimonials.njk" %}
+{% if page.url == "/media-training/" %}
+{% include "components/hero-media-training.njk" %}
+{% if page.url == "/about/" %}
+{% include "components/hero-about.njk" %}
+{% else %}
+{% include "components/hero.njk" %}
+{% endif %}
+{% endblock %}
 
 <div class="container">
+
 {% block content %} 
 <main class="content"> 
 <div class="caption-text"><h1><span>{{ title }}</span></h1></div> 
- <div class="grid-2-columns-2x1">
+<div class="grid-2-columns-2x1">
 
- <div class="textwrapper">
+<div class="textwrapper">
 {{ layoutContent | safe }}
 </div>
 <div class="sidebarwrapper">
@@ -27,19 +38,15 @@
 </aside>
 </div>
 
- </div>
+</div>
 </main>
 {% endblock %}
-
-
-
 
 <footer class="footernavwrapper"> 
 <div class="footernav">  
 {% include "components/nav-footer.njk" %}
 </div>
 </footer>
-
 
 </div>
 {% include "components/javascript.njk" %}
