@@ -469,7 +469,7 @@ button.close-nav {
   cursor: pointer;
   background-color: var(--white);
   border-width: 0.1rem;
-  border-color: var(--primary);
+  border-color: var(--black);
   padding: 0.5rem;
   text-decoration:none;
 }
