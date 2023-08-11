@@ -1237,7 +1237,18 @@ margin:0;}
   width:50px;
   margin:0;
 }
+.exclusion {
+  background-color: lime;
+  -ms-wrap-flow: both;
+  -ms-wrap-margin: 10px;
+  z-index: 1;
+  position:absolute;
+  right:0;
+  bottom:10px;
+  width: 50px;
+  height: 50px;
 
+}
 
 .block-italic {
 display: grid;
