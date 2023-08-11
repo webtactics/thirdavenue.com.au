@@ -1148,6 +1148,11 @@ figcaption {
         }
     
         .testbox1 p {clear:right;}
+
+        .text-content {
+          float: left;
+          width: 100%; /* Adjust as needed */
+        }
     
     .testboxlink {
 
@@ -1224,18 +1229,9 @@ height:38px;
 width:50px;
 margin:0;}
 
-.rightfloat {margin:0.5rem 0 0 0.5rem;float: right;clear:left;
-  height:50px;
-  width:50px;}
-
-.rightfloat img {
-position: absolute;
-bottom:98px;
-right:8px;
-clear:left;
-height:38px;
-width:38px;
-
+.rightfloat {
+  float: right;
+  clear: right; /* Clear float to prevent text from wrapping around */
 }
 
 
