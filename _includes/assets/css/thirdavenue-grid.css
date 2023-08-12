@@ -1150,7 +1150,7 @@ figcaption {
         .testbox1 p {clear:right;}
 
         .text-content {
-          
+          display:grid;
           width: 100%; /* Adjust as needed */
           position: relative;
         }
@@ -1245,6 +1245,11 @@ margin:0;}
   float: right;
   height: 50px;
   
+}
+.rightfloat {
+position: absolute;
+  right: 8px;
+  bottom: 10px;
 }
 
 .block-italic {
