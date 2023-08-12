@@ -4,11 +4,9 @@
 <div class="maintestlisewrapper">
 <div class="testbox1">
 
- <div class="text-content">
-<blockquote>
- <q>{{ post.data.layoutContent | safe }}</q>
- </blockquote>
- </div>
+	
+ <div class="text-content"><blockquote><div class="leftfloat">{% include "components/global/quote-left.html" %}</div>
+{{ post.data.layoutContent }}</blockquote></div>
 
 </div>
 <div class="testboxlink">
