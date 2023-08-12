@@ -1318,3 +1318,48 @@ background-color: var(--primary);
     width:0;
 
 }
+.scrollToTop {
+
+	display: block;
+
+	display: none;
+
+	z-index: 999; 
+
+	opacity: 1;
+
+	position: fixed;
+
+	right: 20px;
+
+	bottom: 60px;
+
+	-moz-border-radius: 2px;
+
+	-webkit-border-radius: 2px;
+
+	border-radius: 2px;
+
+	width: 40px;
+
+	height: 40px;
+
+	background: #1988B7 url('https://www.thirdavenue.com.au/uploads/icons/to-top.png') no-repeat center center;
+
+	text-indent:-9999px;
+
+	border-bottom: 1px solid #FFFFFF;
+
+	}
+
+	.scrollToTop:hover	{
+
+		opacity: .80;
+
+		text-decoration:none;
+
+		border: none;
+
+		
+
+		}
