@@ -1125,44 +1125,25 @@ figcaption {
         width: 100%;
     }
 
-    .testbox1 {
+    .testbox {
 
-      margin: 0;
+margin: 0;
+color: var(--text); /* default background for browsers without gradient support */
+border: 3px solid var(--black);
+padding: 1rem 1rem 0 1rem;
+border-radius: 4px;
+box-shadow: 0 4px 8px #A9A9A9;
+}
     
-      color: var(--text); /* default background for browsers without gradient support */
+.testbox p {clear:right;}
     
-      /* css3 */
-    
-      border: 3px solid #000000;
-    
-      padding: 10px 10px 0 10px;
-    
-      background-color: #FFFFFF;
-    
-          border-radius: 4px;
-    
-        box-shadow: 0 4px 8px #A9A9A9;
-    
- 
-    
-        }
-    
-        .testbox1 p {clear:right;}
-    
-    .testboxlink {
-
-      padding: 0 0 0 4.5em;
-    
-      margin: 8px 0 0 0;
-    
-      font-size: 1rem;
-    
-    
-      color: var(--black);
-    
-      font-weight:700;
-    
-    }
+.testboxlink {
+padding: 0 0 0 4.5em;
+margin: 8px 0 0 0;
+font-size: 1rem;
+color: var(--black);
+font-weight:700;
+}
     
       
     
@@ -1213,10 +1194,9 @@ float: left;
 padding: 0 0.75rem 0 0;
 height:38px;
 width:50px;
-
 margin:0;
-
     }
+
 .quoteright  {
 float:right;
 padding: 0 0 0 0.75rem;
@@ -1224,19 +1204,6 @@ height:38px;
 width:50px;
 margin:0;}
 
-.rightfloat {margin:0.5rem 0 0 0.5rem;float: right;clear:left;
-  height:50px;
-  width:50px;}
-
-.rightfloat img {
-position: absolute;
-bottom:98px;
-right:8px;
-clear:left;
-height:38px;
-width:38px;
-
-}
 
 
 
