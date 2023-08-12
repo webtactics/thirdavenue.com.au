@@ -1126,7 +1126,7 @@ figcaption {
     }
 
     .testbox1 {
-      float: left;
+
       margin: 0;
     
       color: var(--text); /* default background for browsers without gradient support */
@@ -1147,13 +1147,7 @@ figcaption {
     
         }
     
-      
-
-        .text-content {
-          display:grid;
-          width: 100%; /* Adjust as needed */
-          position: relative;
-        }
+        .testbox1 p {clear:right;}
     
     .testboxlink {
 
@@ -1230,27 +1224,21 @@ height:38px;
 width:50px;
 margin:0;}
 
+.rightfloat {margin:0.5rem 0 0 0.5rem;float: right;clear:left;
+  height:50px;
+  width:50px;}
 
 .rightfloat img {
-  float:right;  
-  clear:both;
-  width: 50px ;
-  margin: 0;
+position: absolute;
+bottom:98px;
+right:8px;
+clear:left;
+height:38px;
+width:38px;
+
 }
 
-/** Image has to be wrapped in div. This creates a shiv to bump down the image and all text to wrap **/
-.rightfloat:before {
-  content: '' ;
-  display:block;
-  float: right;
-  height: 50px;
-  
-}
-.rightfloat {
-position: absolute;
-  right: 8px;
-  bottom: 10px;
-}
+
 
 .block-italic {
 display: grid;
@@ -1363,5 +1351,3 @@ background-color: var(--primary);
     width:0;
 
 }
-
-
