@@ -1402,3 +1402,20 @@ background-color: var(--primary);
 .blockquote-wrapper  .blockquote h4:first-letter {
  margin-left:-12px;
 }
+
+
+blockquote.style3 {
+  font: 18px/30px normal Tahoma, sans-serif;
+  padding-top: 22px;
+  margin: 5px;
+  background-image: url(/img/quote-left.svg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 65px;
+  }
+  blockquote.style3 span {
+    display: block;
+    background-image: url(/img/quote-right.svg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
