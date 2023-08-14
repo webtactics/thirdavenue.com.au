@@ -1141,7 +1141,7 @@ box-shadow: 0 4px 8px #A9A9A9;
    .testbox::after {
       content: "";
       position: absolute;
-      bottom:  1px;
+      bottom:  -10px;
       left: 4.5rem;
       border-width: 0 20px 80px 0;
       border-style: solid;
@@ -1153,7 +1153,7 @@ box-shadow: 0 4px 8px #A9A9A9;
 .testbox p {clear:right;}
     
 .testboxlink {
-padding: 1rem 0 0 6rem;
+padding: 1rem 0 0 7rem;
 margin: 0;
 font-size: 1rem;
 color: var(--black);
