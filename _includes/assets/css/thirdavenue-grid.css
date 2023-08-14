@@ -1143,6 +1143,9 @@ margin: 8px 0 0 0;
 font-size: 1rem;
 color: var(--black);
 font-weight:700;
+background-image: url(/img/arrowside.png);
+background-repeat: no-repeat;
+background-position: left center;
 }
     
       
