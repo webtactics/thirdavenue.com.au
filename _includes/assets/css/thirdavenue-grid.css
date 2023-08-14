@@ -1143,17 +1143,17 @@ box-shadow: 0 2px 4px #A9A9A9;
 .testbox p {clear:right;}
     
 .testboxlink {
-padding: 1rem;
+padding: 0.5rem 1rem;
 margin: 1rem 0 0 5rem;
 font-size: 1rem;
 color: var(--black);
 font-weight:700;
-border-left:6px solid var(--primary);
+border-left:6px solid var(--black);
 
 }
 .testboxlink:hover {
 
-  border-left:6px solid var(--black);
+  border-left:6px solid var(--primary);
   
   }   
       
