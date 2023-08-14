@@ -1151,14 +1151,12 @@ box-shadow: 0 4px 8px #A9A9A9;
 .testbox p {clear:right;}
     
 .testboxlink {
-padding: 0 0 0 4.5em;
-margin: 8px 0 0 0;
+padding: 0.5rem 0 0 4.5rem;
+margin: 0;
 font-size: 1rem;
 color: var(--black);
 font-weight:700;
-background-image: url(/img/arrowside.png);
-background-repeat: no-repeat;
-background-position: left center;
+
 }
     
       
