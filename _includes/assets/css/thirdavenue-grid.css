@@ -1101,6 +1101,19 @@ figcaption {
 
     .maintestlisewrapper {margin: 0;position: relative;}
 
+
+    .maintestlisewrapper::after {
+      content: "";
+      position: absolute;
+      bottom: -80px;
+      left: 80px;
+      border-width: 0 20px 80px 0;
+      border-style: solid;
+      border-color: transparent #bfbfbf;
+      display: block;
+      width: 0;
+    }
+
     .outer-block { 
         -moz-column-count: 3;
         -webkit-column-count: 3;
