@@ -1102,7 +1102,7 @@ figcaption {
     .maintestlisewrapper {margin: 0;position: relative;}
 
 
-    .maintestlisewrapper::after {
+    .testbox::after {
       content: "";
       position: absolute;
       bottom: -80px;
