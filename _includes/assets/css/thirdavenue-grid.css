@@ -14,6 +14,7 @@
   --black80: hsla(0,0%,0%,0.8);
   --mattblack: hsla(214,12%,11%,0.95);
   --green: hsla(144, 80%, 22%, 1);
+
 }
 
 
@@ -1142,20 +1143,16 @@ box-shadow: 0 2px 4px #A9A9A9;
 .testbox p {clear:right;}
     
 .testboxlink {
-padding: 1rem 0;
+padding: 1rem;
 margin: 1rem 0 0 5rem;
 font-size: 1rem;
 color: var(--black);
 font-weight:700;
-border-left:6px solid var(--pink);
+border-left:6px solid var(--primary);
 
 }
 .testboxlink:hover {
-  padding: 1rem 0;
-  margin: 1rem 0 0 5rem;
-  font-size: 1rem;
-  color: var(--black);
-  font-weight:700;
+
   border-left:6px solid var(--black);
   
   }   
