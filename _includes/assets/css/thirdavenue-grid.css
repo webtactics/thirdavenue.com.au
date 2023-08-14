@@ -1143,7 +1143,7 @@ box-shadow: 0 2px 4px #A9A9A9;
       position: absolute;
       bottom:  8px;
       left: 4.5rem;
-      border-width: 0 20px 80px 0;
+      border-width: 0 40px 100px 0;
       border-style: solid;
       border-color: transparent var(--black);
       display: block;
