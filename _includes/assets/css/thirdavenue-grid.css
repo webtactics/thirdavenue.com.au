@@ -1141,7 +1141,7 @@ box-shadow: 0 2px 4px #A9A9A9;
    .testbox::after {
       content: "";
       position: absolute;
-      bottom:  0px;
+      bottom:  4px;
       left: 4.5rem;
       border-width: 0 20px 100px 0;
       border-style: solid;
