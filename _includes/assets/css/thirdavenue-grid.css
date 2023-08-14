@@ -1134,7 +1134,7 @@ figcaption {
 margin: 0;
 color: var(--text); /* default background for browsers without gradient support */
 border: 6px solid var(--black);
-padding: 1.4rem 1.4rem 0;
+padding: 1.4rem 1.4rem 0.4rem;
 border-radius: 0px;
 
 }
