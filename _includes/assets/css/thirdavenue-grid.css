@@ -1322,7 +1322,7 @@ background-color: var(--primary);
 /* center the blockquote in the page */
 .blockquote-wrapper {
   display: flex;
-  height: auto;
+  height: 100vh;
   padding: 0 20px;
 }
 
