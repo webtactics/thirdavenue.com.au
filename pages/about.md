@@ -37,7 +37,7 @@ In 2012 during her sabbatical, Rochelle worked with AdNews magazine as Consultin
 
 Bringing her considerable expertise as a journalist and editor, Rochelle has also been a media trainer for the past ten years and through Third Avenue Media Training that provides confidential media and key message training to CEOs and executive teams across a diverse range of businesses.
 
-<figure class="imageright img241"><img title="International Advertising Association" src="/img/iaa_banner.png" alt="International Advertising Association" width="241px" height="auto">
+<figure class="imageright img241"><a title="International Advertising Association" href="https://www.iaaglobal.org/" target="_blank" rel="noopener"><img title="International Advertising Association" src="/img/iaa_banner.png" alt="International Advertising Association" width="241px" height="auto"></a>
 <figcaption>International Advertising Association</figcaption>
 </figure>
 
