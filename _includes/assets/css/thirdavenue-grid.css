@@ -1008,6 +1008,7 @@ aspect-ratio: 450 / 270;
 .img250 img {max-width: 250px;height:auto;aspect-ratio: 1 / 1;}
 
 .img400 img {max-width: 400px;height:auto;aspect-ratio: 1 / 1;}
+.img241 img {max-width: 241px;height:auto;aspect-ratio: 241 / 83;}
 .img34 img {max-width: 34px;height:auto;aspect-ratio: 1 / 1;float:right;}
 
 .img600 img {max-width: 600px;height:auto;aspect-ratio: 60 / 36;}
