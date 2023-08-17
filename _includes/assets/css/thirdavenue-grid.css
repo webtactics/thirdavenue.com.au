@@ -1197,10 +1197,10 @@ border-left:10px solid var(--black);
 
 
 @media (max-width: 1028px) {
-.home-slide { max-width: calc(90vw - 4em);}
+.home-slide { max-width: calc(90vw - 4rem);}
 }
 @media (max-width: 768px) {
-  .home-slide { max-width: calc(100vw - 0.1em);}
+  .home-slide { max-width: calc(100vw - 1rem);}
   }
 .leftfloat, .quoteleft  {
 float: left;
