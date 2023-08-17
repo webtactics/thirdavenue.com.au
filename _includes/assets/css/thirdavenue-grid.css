@@ -1200,7 +1200,7 @@ border-left:10px solid var(--black);
 .home-slide { max-width: calc(90vw - 4em);}
 }
 @media (max-width: 768px) {
-  .home-slide { max-width: 100%;}
+  .home-slide { max-width: calc(100vw - 0.1em);}
   }
 .leftfloat, .quoteleft  {
 float: left;
