@@ -1059,6 +1059,7 @@ figcaption {
   justify-content: center;
   align-content: center;
   width: calc(100vw - 6em);
+  max-width: 1660px;
   margin: 0 auto;
 }
 
