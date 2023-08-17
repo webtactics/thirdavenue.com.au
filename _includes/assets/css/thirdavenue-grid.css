@@ -220,6 +220,7 @@ padding: calc(0.5vw + 5px);
     right: auto;
     left: 0;
     margin: 0 auto 1rem auto;
+    padding: 0.5rem;
 
    }
 
@@ -233,7 +234,7 @@ padding: calc(0.5vw + 5px);
      }
     
 .caption-text h1 span { 
-padding: 0;
+
 background: var(--black);
 padding: 1rem;
     }
