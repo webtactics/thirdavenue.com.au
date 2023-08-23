@@ -932,6 +932,18 @@ aspect-ratio: 450 / 270;
     width:629px;
     aspect-ratio: 629 / 350;
      }
+
+.leftfloat img {
+  height:auto;
+  width:38px;
+  aspect-ratio: 1 / 1;
+   }
+ul.menusocial li a img {
+    height:auto;
+    width:22px;
+    aspect-ratio: 1 / 1;
+     }
+
   .NewsSummary {
     margin: 0 0 1.8750rem 0;
      padding: 0.75rem;
