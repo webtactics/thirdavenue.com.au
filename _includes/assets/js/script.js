@@ -31,7 +31,7 @@ const toggleButton = document.querySelector('.toggle-nav');
 
 
 
-
+  document.addEventListener('touchstart', onTouchStart, {passive: true});
 
 
 
