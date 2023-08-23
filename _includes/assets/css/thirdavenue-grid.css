@@ -296,7 +296,8 @@ padding: 1rem;
     align-content: center;}
 
       @media screen and (min-width: 1025px) {
-        .logo img {width:257px;height:30px;}
+        .logo img {width:257px;height:30px;
+        aspect-ratio: 257 / 30;}
         
     
       }
