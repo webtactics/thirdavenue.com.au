@@ -76,6 +76,7 @@ a {
   color: var(--primarydark);
   text-decoration: none;
   cursor: pointer;
+  transition: all .3s ease-in-out;
 
 }
 
@@ -83,6 +84,7 @@ a:hover {
   color: var(--black);
   border: none;
   text-decoration: none;
+  transition: all .3s ease-in-out;
 
 }
 
