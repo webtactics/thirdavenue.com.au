@@ -93,6 +93,7 @@ a:hover {
   text-decoration: none;
   cursor: pointer;
   border-bottom: 1px dotted var(--primarydark);
+  transition: bottom 0.3s ease-in-out;
 
 }
 
@@ -101,7 +102,8 @@ a:hover {
   border: none;
   text-decoration: none;
   border-bottom: 1px solid var(--black);
-  background-color: var(--primarydark);
+  background-color: var(--primary);
+  transition: bottom 0.3s ease-in-out;
 
 }
 
