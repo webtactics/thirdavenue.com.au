@@ -280,7 +280,11 @@ background: var(--black);
 padding: calc(0.5vw + 5px);
 }
 
-
+@media screen and (max-width: 450px) {
+  .caption-text h1 span { 
+    padding: 0.5rem;
+  }
+    }
 
 
 @media screen and (max-width: 768px) {
