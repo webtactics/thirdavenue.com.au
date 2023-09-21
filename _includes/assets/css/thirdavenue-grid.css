@@ -1208,7 +1208,7 @@ figcaption {
 
     @media (max-width: 800px) {
       .grid-2-columns-bob {
-        width: calc(100vw - 2em);}
+        width: calc(100vw - 1rem);}
       }
 
     .maintestlisewrapper {margin: 0;position: relative;}
