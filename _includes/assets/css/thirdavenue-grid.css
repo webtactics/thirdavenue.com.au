@@ -280,11 +280,7 @@ background: var(--black);
 padding: calc(0.5vw + 5px);
 }
 
-@media screen and (max-width: 450px) {
-  .caption-text h1 span { 
-    padding: 0.5rem;
-  }
-    }
+
 
 
 @media screen and (max-width: 768px) {
@@ -322,11 +318,17 @@ padding: calc(0.5vw + 5px);
 .caption-text h1 span { 
 
 background: var(--black);
-padding: 1rem;
+padding: 0.75rem;
     }
 
 
 }
+
+@media screen and (max-width: 450px) {
+  .caption-text h1 span { 
+    padding: 0.5rem;
+  }
+    }
  .headerwrapper {
           display: grid;
           grid-template-columns: 120px 1fr;
