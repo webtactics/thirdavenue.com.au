@@ -271,6 +271,7 @@ margin:0;
 text-align: right; 
 color: var(--white);
 font-size: calc(2rem + 1vw);
+line-height: 2;
 
  }
 
