@@ -29,8 +29,5 @@
     "html-minifier": "^4.0.0",
     "luxon": "^3.2.1",
     "uglify-js": "^3.17.4"
-  },
-  "dependencies": {
-    "a11y-dialog": "^7.5.2"
   }
 }
