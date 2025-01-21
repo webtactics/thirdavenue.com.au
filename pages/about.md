@@ -1,7 +1,7 @@
 ---
 layout: layouts/default.njk
 title: About Third Avenue Consulting
-description: Rochelle Burbury has more than 25 years’ experience as a journalist and editor, media trainer and PR professional.
+description: Rochelle Burbury has more than 25 years experience as a journalist, editor, media trainer and PR professional.
 section: about
 class: about
 date: 2023-07-20
@@ -35,7 +35,7 @@ Rochelle left the AFR to establish PR consultancy Open Dialogue, owned by M&C Sa
 
 In 2012 during her sabbatical, Rochelle worked with AdNews magazine as Consulting Editor, overseeing a new editorial team and writing opinion and commentary.
 
-Bringing her considerable expertise as a journalist and editor, Rochelle has also been a media trainer for the past ten years and through Third Avenue Media Training that provides confidential media and key message training to CEOs and executive teams across a diverse range of businesses.
+Bringing her considerable expertise as a journalist and editor, Rochelle has also been a media trainer for the past ten years and through Third Avenue Media Training which provides confidential media and key message training to CEOs and executive teams across a diverse range of businesses.
 
 <figure class="imageright img241"><a title="International Advertising Association" href="https://www.iaaglobal.org/" target="_blank" rel="noopener"><img title="International Advertising Association" src="/img/iaa_banner.png" alt="International Advertising Association" width="241px" height="auto"></a>
 <figcaption>International Advertising Association</figcaption>
